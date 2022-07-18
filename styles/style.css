@@ -1,0 +1,63 @@
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/header__logo.css";
+@import "../blocks/header/__logo/__image/header__logo__image.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__subtitle/__subtitle.css";
+@import "../blocks/header/__square-pic/header__square-pic.css";
+@import "../blocks/description/description.css";
+@import "../blocks/techniques/techniques.css";
+@import "../blocks/video/video.css";
+@import "../blocks/oakley/oakley.css";
+@import "../blocks/feynman/feynman.css";
+@import "../blocks/digits/digits.css";
+@import '../blocks/khan/khan.css';
+@import "../blocks/kaufman/kaufman.css";
+@import "../blocks/resources/resources.css";
+@import "../blocks/footer/footer.css";
+@import "../blocks/header/__main-illustration/header__main-illustration.css";
+@import "../blocks/header/__subtitle/__link/header__subtitle_link.css";
+@import "../blocks/description/__two-columns/__brief/two-columns__brief.css";
+@import "../blocks/description/__two-columns/two-columns.css";
+@import "../blocks/description/__two-columns/__main-text/two-columns__main-text.css";
+@import "../blocks/description/__two-columns/__paragraph/two-columns__paragraph.css";
+@import "../blocks/description/__two-columns/__paragraph/_span-bold/two-columns__paragraph_span-bold.css";
+@import "../blocks/techniques/_section_title/section_title.css";
+@import "../blocks/techniques/_section_subtitle/section_subtitle.css";
+@import "../blocks/techniques/_cards/techniques_cards.css";
+@import "../blocks/techniques/_cards/_item/techniques__cards_item.css";
+@import "../blocks/techniques/_cards/_image/techniques__cards_image.css";
+@import "../blocks/techniques/_cards/_crutch/techniques__card_crutch.css";
+@import "../blocks/techniques/_cards/_description/techniques__cards_description.css";
+@import "../blocks/techniques/_cards/__title/techniques__cards_title.css";
+
+
+
+
+
+* {
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.video__iframes {
+ display: flex;
+ flex-wrap: wrap;
+ margin-top: 50px;
+}
+.video__iframe {
+  width: 516px;
+  height: 316px;
+}
+.video__iframe_first {
+margin-left: auto;
+margin-right: 20px;
+}
+.video__iframe_second {
+margin-right: auto;
+}

@@ -1,0 +1,7 @@
+.header___subtitle_link {
+  opacity: 1;
+  text-decoration: none;
+}
+.header___subtitle_link:hover {
+  opacity: 0.6;
+}
