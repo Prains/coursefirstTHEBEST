@@ -1,5 +1,6 @@
 .oakley {
   position: relative;
-width: 1440px;
-height: 478px;
+  display: flex;
+  align-items: center;
+margin-top: 160px;
 }

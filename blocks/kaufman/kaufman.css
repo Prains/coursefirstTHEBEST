@@ -1,5 +1,8 @@
 .kaufman {
   position: relative;
-width: 1440px;
-height: 733px;
+  width: 100vw;
+  padding-top: 90px;
+  background: #1D1D1D;
+  color: #FFFFFF;
+  overflow: hidden;
 }

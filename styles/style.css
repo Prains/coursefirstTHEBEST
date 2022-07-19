@@ -33,18 +33,43 @@
 @import "../blocks/video/__iframes/_iframe/video__iframes_iframe.css";
 @import "../blocks/video/__iframes/_iframe/_first/video__iframes_iframe_first.css";
 @import "../blocks/video/__iframes/_iframe/_second/video__iframes_iframe_second.css";
+@import "../blocks/feynman/feynamnn__wrapper/__wrapper.css";
+@import "../blocks/feynman/feynamnn__wrapper/__title/feynmann__title.css";
+@import "../blocks/feynman/feynamnn__wrapper/__subtitle/feynmann__subtitle.css";
+@import "../blocks/feynman/feynamnn__wrapper/__link/feynmann__link.css";
+@import "../blocks/feynman/feynamnn__wrapper/__image/feynamn__image.css";
+@import "../blocks/digits/table/table.css";
+@import "../blocks/digits/table/table__cell/table__cell.css";
+@import "../blocks/digits/table/table__cell/table__text/table__text.css";
+@import "../blocks/digits/table/table__cell/table__heading/table__heading.css";
+@import "../blocks/digits/table/table__cell/table__crutch_bank/table__crutch_bank.css";
+@import "../blocks/khan/khan__container/khan__container.css";
+@import "../blocks/khan/khan__container/khan__author/khan__author.css";
+@import "../blocks/khan/khan__container/khan__book-container/khan__book-container.css";
+@import "../blocks/khan/khan__container/khan__book-container/khan__book-pic/khan__book-pic.css";
+@import "../blocks/khan/khan__container/khan__book-container/khan__buy-link/khan__buy-link.css";
+@import "../blocks/khan/khan__container/khan__quote/khan__quote.css";
+@import "../blocks/khan/khan__container/khan__quote-author/khan__quote-author.css";
+@import "../blocks/khan/khan__container/khan__quote-author-subline/khan__quote-author-subline.css";
+@import "../blocks/khan/khan__container/khan__title/khan__title.css";
+@import "../blocks/kaufman/table/table_white.css";
+@import "../blocks/kaufman/table/table__cell_kaufman/table__cell_kaufman.css";
+@import "../blocks/kaufman/kaufman__triangle/kaufman__triangle.css";
 
 
 
 
 * {
   box-sizing: border-box;
-  border: 1px solid red;
 }
 
 .page {
-    min-width: 1100px;
-    max-width: 1600px;
-    margin: 0 auto;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.margin-zero {
+  margin: 0;
 }

@@ -1,0 +1,13 @@
+.khan__buy-link {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 42px;
+  text-decoration: none;
+  opacity: 1;
+  height: 100%;
+}
+.khan__buy-link:hover {
+  opacity: 0.6;
+}
