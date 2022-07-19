@@ -29,7 +29,10 @@
 @import "../blocks/techniques/_cards/_crutch/techniques__card_crutch.css";
 @import "../blocks/techniques/_cards/_description/techniques__cards_description.css";
 @import "../blocks/techniques/_cards/__title/techniques__cards_title.css";
-
+@import "../blocks/video/__iframes/video__iframes.css";
+@import "../blocks/video/__iframes/_iframe/video__iframes_iframe.css";
+@import "../blocks/video/__iframes/_iframe/_first/video__iframes_iframe_first.css";
+@import "../blocks/video/__iframes/_iframe/_second/video__iframes_iframe_second.css";
 
 
 
@@ -44,20 +47,4 @@
     max-width: 1600px;
     margin: 0 auto;
     font-family: 'Helvetica Neue', Arial, sans-serif;
-}
-.video__iframes {
- display: flex;
- flex-wrap: wrap;
- margin-top: 50px;
-}
-.video__iframe {
-  width: 516px;
-  height: 316px;
-}
-.video__iframe_first {
-margin-left: auto;
-margin-right: 20px;
-}
-.video__iframe_second {
-margin-right: auto;
 }
