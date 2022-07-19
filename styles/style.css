@@ -55,12 +55,30 @@
 @import "../blocks/kaufman/table/table_white.css";
 @import "../blocks/kaufman/table/table__cell_kaufman/table__cell_kaufman.css";
 @import "../blocks/kaufman/kaufman__triangle/kaufman__triangle.css";
+@import "../blocks/resources/__logo-zone/resources__logo-zone.css";
+@import "../blocks/resources/__logo-zone/resources__logo/resources__logo.css";
+@import "../blocks/footer/footer__columns/footer__author/footer__author.css";
+@import "../blocks/footer/footer__columns/footer__column_copyright/footer__column_copyright.css";
+@import "../blocks/footer/footer__columns/footer__column-heading/footer__column-heading.css";
+@import "../blocks/footer/footer__columns/footer__column-links/footer__column-links.css";
+@import "../blocks/footer/footer__columns/footer__column-links/footer__column-link/footer__column-link.css";
+@import "../blocks/footer/footer__columns/footer__columns.css";
 
 
 
+
+html {
+    box-sizing: border-box;
+    overflow-y: scroll;
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
 
 * {
   box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
 }
 
 .page {
