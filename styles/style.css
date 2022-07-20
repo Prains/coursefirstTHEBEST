@@ -64,7 +64,7 @@
 @import "../blocks/footer/footer__columns/footer__column-links/footer__column-link/footer__column-link.css";
 @import "../blocks/footer/footer__columns/footer__columns.css";
 @import "./normalize.css";
-
+@import "./fonts.css";
 * {
   box-sizing: border-box;
 }
