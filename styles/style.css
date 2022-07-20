@@ -64,15 +64,6 @@
 @import "../blocks/footer/footer__columns/footer__column-links/footer__column-link/footer__column-link.css";
 @import "../blocks/footer/footer__columns/footer__columns.css";
 
-
-
-
-html {
-    box-sizing: border-box;
-    overflow-y: scroll;
-    overflow-x: hidden; /* Prevents horizontal scroll */
-}
-
 * {
   box-sizing: border-box;
 }
