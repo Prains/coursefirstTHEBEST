@@ -1,9 +1,8 @@
-.header__logo {
-  position: absolute;
+.logo_place_header {
     width: 228px;
     height: 30px;
     opacity: 1
 }
-.header__logo:hover {
+.logo_place_header:hover {
   opacity: 0.6;
 }

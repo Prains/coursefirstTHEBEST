@@ -1,7 +1,8 @@
-.header___subtitle_link {
+.header___link {
   opacity: 1;
   text-decoration: none;
+  color:#2F80ED;
 }
-.header___subtitle_link:hover {
+.header___link:hover {
   opacity: 0.6;
 }

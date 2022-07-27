@@ -1,5 +1,5 @@
 .khan__buy-link {
-  font-family: 'Helvetica Neue';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -7,6 +7,7 @@
   text-decoration: none;
   opacity: 1;
   height: 100%;
+  color: #2F80ED;
 }
 .khan__buy-link:hover {
   opacity: 0.6;

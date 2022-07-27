@@ -1,7 +1,8 @@
 .khan__title {
-  font-family: 'Inter';
+  font-family: 'Inter', arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 60px;
   line-height: 115%;
+  margin: 0;
 }

@@ -1,7 +1,7 @@
-.techniques__cards {
+.cards {
   display: flex;
   flex-wrap: wrap;
   width: 920px;
-  justify-content: space-between;
+  gap: 100px;
   margin: auto;
 }
