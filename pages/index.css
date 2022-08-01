@@ -2,8 +2,8 @@
 @import "../vendor/fonts.css";
 @import "../blocks/header/header.css";
 @import "../blocks/logo/logo.css";
-@import "../blocks/logo/_place_header/logo_place_header.css";
-@import "../blocks/logo/_place_footer/logo_place_footer.css";
+@import "../blocks/logo/_place/logo_place_header.css";
+@import "../blocks/logo/_place/logo_place_footer.css";
 @import "../blocks/header/__title/header__title.css";
 @import "../blocks/header/__subtitle/header__subtitle.css";
 @import "../blocks/header/__square-pic/header__square-pic.css";
@@ -60,7 +60,7 @@
 @import "../blocks/rotation/rotation.css";
 @import "../blocks/resources/__logo-zone/resources__logo-zone.css";
 @import "../blocks/resources/__logo/resources__logo.css";
-@import "../blocks/footer/__columns/_content/footer__column_content_copyright.css";
+@import "../blocks/footer/__column/_content/footer__column_content_copyright.css";
 @import "../blocks/footer/__columns/footer__columns.css";
 @import "../blocks/footer/__author/footer__author.css";
 @import "../blocks/footer/__column-heading/footer__column-heading.css";
