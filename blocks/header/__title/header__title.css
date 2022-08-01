@@ -1,12 +1,12 @@
 .header__title {
-  position: absolute;
-width: 730px;
-height: 192px;
-left: 64px;
-bottom: 254px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 102px;
-line-height: 96px;
+  align-self: center;
+  margin-left: 64px;
+  width: 730px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Inter', arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 102px;
+  line-height: 96px;
 }

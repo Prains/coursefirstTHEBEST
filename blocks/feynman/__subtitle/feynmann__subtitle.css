@@ -4,4 +4,6 @@
   text-align: center;
   font-size: 36px;
   line-height: 51px;
+  font-family: 'Inter', arial, sans-serif;
+  z-index: 1;
 }

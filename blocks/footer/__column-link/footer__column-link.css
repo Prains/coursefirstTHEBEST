@@ -1,0 +1,17 @@
+.footer__column-link {
+  position: relative;
+  gap: 10px;
+  text-decoration: none;
+  opacity: 1;
+  color: white;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  transition: 0.6s linear;
+}
+.footer__column-link:hover {
+  transition: 0.6s linear;
+  opacity: 0.6;
+}

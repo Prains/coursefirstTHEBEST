@@ -1,0 +1,10 @@
+.footer__column-heading {
+  margin-bottom: 20px;
+  margin-top: 0;
+  color: white;
+  font-family: 'Inter', arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+}

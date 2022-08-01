@@ -7,7 +7,9 @@
   opacity: 1;
   color: #2F80ED;
   line-height: 51px;
+  font-family: 'Inter', arial, sans-serif;
   transition: 0.6s linear;
+  z-index: 1;
 }
 
 .feynman__link:hover {

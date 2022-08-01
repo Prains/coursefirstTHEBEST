@@ -1,7 +1,8 @@
 .footer {
   padding-top: 60px;
-  background: #1D1D1D;
+  background: #1f1f1f;
   padding-bottom: 40px;
   display: flex;
   min-height: 350px;
+  box-sizing: border-box;
 }

@@ -1,0 +1,13 @@
+.table__text {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  margin-top: 0;
+  margin-bottom: 20px;;
+}
+
+.table__text:last-of-type {
+  margin-bottom: 20px;
+}
